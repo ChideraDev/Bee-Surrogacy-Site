@@ -1,0 +1,17 @@
+{
+  "name": "bee-surrogacy-site",
+  "version": "1.0.0",
+  "description": "Bee Surrogacy",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Dera",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^18.20.2"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
