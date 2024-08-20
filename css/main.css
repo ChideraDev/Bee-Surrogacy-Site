@@ -250,23 +250,23 @@ nav {
     .about-main .display-about-inner > * img {
       width: 100%; }
 
-.about-main .Our-Services {
+.about-main .our-services {
   background-color: #4682B4;
   display: flex;
   flex-direction: column;
   align-items: center; }
-  .about-main .Our-Services h1, .about-main .Our-Services p {
+  .about-main .our-services h1, .about-main .our-services p {
     text-align: center;
     max-width: 100ch;
     line-height: 2rem; }
-  .about-main .Our-Services .our-services-details {
+  .about-main .our-services .our-services-details {
     display: grid;
     gap: 1rem;
     grid-template-columns: 1fr 1fr; }
-    .about-main .Our-Services .our-services-details ul {
+    .about-main .our-services .our-services-details ul {
       background-color: white;
       padding: 2rem; }
-      .about-main .Our-Services .our-services-details ul li {
+      .about-main .our-services .our-services-details ul li {
         padding: 1rem 0;
         line-height: 1.7rem; }
 
