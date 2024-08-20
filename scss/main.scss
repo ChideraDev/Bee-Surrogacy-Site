@@ -222,7 +222,7 @@ font-size: 1rem;
    @include heading()
   }
   
-  @include details("display-about-inner", url("./images/Pregnant-Lady.jpg"));
+  @include details("display-about-inner", url("../images/Pregnant-Lady.jpg"));
   .our-services{
     background-color: $Primary-color;
     display: flex;
