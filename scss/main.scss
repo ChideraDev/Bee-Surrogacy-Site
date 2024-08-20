@@ -68,7 +68,7 @@ nav {
     background-size: cover;
     text-align: center;
     background-position: center;
-    background-image: url("/dist/images/garrett-jackson-oOnJWBMlb5A-unsplash.jpg");
+    background-image: url("../images/garrett-jackson-oOnJWBMlb5A-unsplash.jpg");
    min-height: 70vh;
     object-fit: cover;
   div:first-child{
@@ -266,7 +266,7 @@ font-size: 1rem;
   }
   
   
-  @include details("bee-privacy-inner", url("/dist/images/Privacy.jpg"));
+  @include details("bee-privacy-inner", url("../images/Privacy.jpg"));
 
 }
 
