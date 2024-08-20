@@ -376,7 +376,7 @@ footer {
     grid-template-areas: "intending" "intendingPic" "surrogates"  "surrogatesPic"; }
   .about-main .display-about-inner .about-header-details {
     grid-template-columns: 1fr; }
-  .about-main .Our-Services .our-services-details {
+  .about-main .our-services .our-services-details {
     grid-template-columns: 1fr; }
   .privacy-main .bee-privacy-inner .bee-privacy-details {
     grid-template-columns: 1fr; } }
