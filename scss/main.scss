@@ -223,7 +223,7 @@ font-size: 1rem;
   }
   
   @include details("display-about-inner", url("/dist/images/Pregnant-Lady.jpg"));
-  .Our-Services{
+  .our-services{
     background-color: $Primary-color;
     display: flex;
     flex-direction: column;
