@@ -201,7 +201,7 @@ nav {
   background-size: cover;
   text-align: center;
   background-position: center;
-  background-image: url("/dist/images/Pregnant-Lady.jpg");
+  background-image: url("../dist/images/Pregnant-Lady.jpg");
   min-height: 70vh; }
   .about-main .display-about-inner::after {
     content: "";
